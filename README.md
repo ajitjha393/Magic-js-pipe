@@ -7,6 +7,9 @@ binary operators and enhance it's usability by extending it to the Functions.
 
 Example - 
 
+![image](https://user-images.githubusercontent.com/42679346/148640362-e6d1f93c-e20f-4d59-8524-ace542767baf.png)
+
+
 So by keep this behavior, (and overwriting primitive prototypes) I was able to go as far as to make the following work and produce the expected result:
 
 
@@ -23,4 +26,5 @@ $$([1, 6, 4, 9, 3])
 
 
 This is designed just for fun and exploring Javascript's hidden functionalities 
-Leave a star if you liked the magic :D
+
+Leave a ⭐ if you liked the magic :D
